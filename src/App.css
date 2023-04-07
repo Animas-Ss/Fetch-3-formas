@@ -1,0 +1,26 @@
+body{
+  background: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1{
+  color: white;
+}
+
+.card{
+  width: 100%;
+  padding: 10px;
+  height: 100%;
+  background: blue;
+  color: white;
+  border-radius: 20px;
+  border: 2px solid green;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
